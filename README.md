@@ -31,6 +31,8 @@ The following repository contains the answers to questions 1-7 of the Data 221 A
 
 
   - Question 7: CNN Error Analysis and Misclassification Study (Dataset B — Fashion MNIST (for CNN))
+      - Contain confusion matrix image
+      - Contains 3 misclassified images
 
 
 
