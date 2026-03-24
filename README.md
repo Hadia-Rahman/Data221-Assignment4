@@ -28,9 +28,9 @@ The following repository contains the answers to questions 1-7 of the Data 221 A
 
  	- Question 6: Convolutional Neural Network with Built-in Dataset (Dataset B — Fashion MNIST (for CNN))
 
- 	
 
-&#x09;- Question 7: CNN Error Analysis and Misclassification Study (Dataset B — Fashion MNIST (for CNN))
+
+  - Question 7: CNN Error Analysis and Misclassification Study (Dataset B — Fashion MNIST (for CNN))
 
 
 
