@@ -27,7 +27,7 @@ model.add(Dense(10, activation='softmax')) # adds output layer for 10 units/clas
 
 model.compile(optimizer="adam", loss = "sparse_categorical_crossentropy", metrics = ["accuracy"]) # compile
 
-model.fit(X_train, y_train, epochs= 5) # 15 epochs
+model.fit(X_train, y_train, epochs= 15) # 15 epochs
 
 test_loss, test_acc = model.evaluate(X_test, y_test) # unseen data
 
